@@ -1,6 +1,6 @@
 # Number Search Locations
 
-A tiny script that looks up where a phone number is from and which carrier it belongs to, using the [`phonenumbers`](https://pypi.org/project/phonenumbers/) library. One of the first programs I wrote while learning Python, between July and November 2023, kept here as it was.
+A tiny script that looks up where a phone number is from and which carrier it belongs to, using the [`phonenumbers`](https://pypi.org/project/phonenumbers/) library. One of the first programs I wrote while learning Python, between July and November 2023, kept here as it was. Built while following Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp* (Udemy, The App Brewery).
 
 ## Run
 
@@ -26,7 +26,7 @@ The number to look up is in `test.py`. The script prints the region on the first
 
 ## Numara Konum Bulucu (Türkçe)
 
-Bir telefon numarasının nereye ve hangi operatöre ait olduğunu [`phonenumbers`](https://pypi.org/project/phonenumbers/) kütüphanesiyle bulan küçük bir betik. Python öğrenirken, Temmuz ile Kasım 2023 arasında yazdığım ilk programlardan biri; hatıra olarak olduğu gibi saklanıyor.
+Bir telefon numarasının nereye ve hangi operatöre ait olduğunu [`phonenumbers`](https://pypi.org/project/phonenumbers/) kütüphanesiyle bulan küçük bir betik. Python öğrenirken, Temmuz ile Kasım 2023 arasında yazdığım ilk programlardan biri; hatıra olarak olduğu gibi saklanıyor. Angela Yu'nun *100 Days of Code: The Complete Python Pro Bootcamp* kursunu (Udemy, The App Brewery) takip ederken yazıldı.
 
 ### Çalıştırma
 
